@@ -1,5 +1,6 @@
-# Support Vector Machine
+# Support Vector Machine & Principle Component Analysis
 
 ## Machine Learning: Project 2
 
-Dataset: http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html
+
+Dataset for Task 2: https://web.stanford.edu/~hastie/ElemStatLearn/datasets/14cancer.info
